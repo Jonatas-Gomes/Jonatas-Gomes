@@ -4,7 +4,7 @@
 <p><strong>:pencil2: Atualmente estou estudando Java, HTML5 + CSS3 e Javascript.</strong></p>
 
 
-<div style="display: inline_block" align="center">
+<div style="display: inline-block">
   <a href="https://github.com/Jonatas-Gomes">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jonatas-Gomes&count_private=true&show_icons=true&theme=radical")>
   <img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatas-Gomes&layout=compact&langs_count=7&theme=dracula"/> 
