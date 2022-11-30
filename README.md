@@ -1,7 +1,7 @@
 <h2>Hello World! Sou Jônatas Gomes, estudante e entusiasta de tecnologia!</h2>
 
-<p><strong>:star2: Trilhando caminho em busca de ser um desenvolvedor FullStack</strong></p>
-<p><strong>:pencil2: Atualmente estou estudando Java, HTML5 + CSS3 e Javascript.</strong></p>
+<p><strong>:star2: Trilhando caminho em busca de ser um desenvolvedor Back-End</strong></p>
+<p><strong>:pencil2: Atualmente estou estudando Java, especialmente SpringBoot</strong></p>
 
 
 <div style="display: inline-block">
